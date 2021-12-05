@@ -1,0 +1,5 @@
+- 👋 Hajimemashite, I’m @Kirito249476
+- 👀 I’m interested in Back End Developer
+- 🌱 I’m currently learning Python and Javascript
+- 🐱‍🚀 I currently live in Binjai, Sumatera Utara, Indonesia
+- 📫 Yoroshiku onegaishimasu!
